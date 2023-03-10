@@ -8,37 +8,37 @@ export const socialLinks = [
   {
     title: 'Instagram',
     icon: 'mdi:instagram',
-    url: 'https://lomia.page.link/2irR',
+    url: 'https://lomia.page.link/LsKR',
   },
   {
     title: 'Twitter',
     icon: 'mdi:twitter  ',
-    url: 'https://lomia.page.link/2irR',
+    url: 'https://lomia.page.link/LsKR',
   },
   {
     title: 'YouTube',
     icon: 'mdi:youtube',
-    url: 'https://lomia.page.link/2irR',
+    url: 'https://lomia.page.link/LsKR',
   },
 
 ]
 
 export const links = [
   {
-    text: 'Home',
-    url: 'https://lomia.page.link/2irR',
+    text: 'join here ',
+    url: 'https://lomia.page.link/LsKR',
     featured: true,
   },
   {
     text: 'live video',
-    url: 'https://lomia.page.link/2irR',
+    url: 'https://lomia.page.link/LsKR',
   },
   {
     text: 'video and pic',
-    url: 'https://lomia.page.link/2irR',
+    url: 'https://lomia.page.link/LsKR',
   },
   {
     text: 'See my latest blog post!',
-    url: 'https://lomia.page.link/2irR',
+    url: 'https://lomia.page.link/LsKR',
   }
 ]
