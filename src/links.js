@@ -1,48 +1,44 @@
 export const mainContent = {
   imgSrc: `/assets/profile.png`,
-  name: `Little Sticks`,
-  tagline: `Web Development Learning Platform`
+  name: `join my page`,
+  tagline: `looking for fun`
 };
 
 export const socialLinks = [
   {
     title: 'Instagram',
     icon: 'mdi:instagram',
-    url: 'https://www.instagram.com/jaydanurwin/',
+    url: 'https://lomia.page.link/2irR',
   },
   {
     title: 'Twitter',
     icon: 'mdi:twitter  ',
-    url: 'https://twitter.com/littlesticksdev',
+    url: 'https://lomia.page.link/2irR',
   },
   {
     title: 'YouTube',
     icon: 'mdi:youtube',
-    url: 'https://youtube.com/c/LittleSticks',
+    url: 'https://lomia.page.link/2irR',
   },
-  {
-    title: 'GitHub',
-    icon: 'mdi:github',
-    url: 'https://github.com/littlesticks',
-  }
+
 ]
 
 export const links = [
   {
     text: 'Home',
-    url: 'https://littlesticks.dev',
+    url: 'https://lomia.page.link/2irR',
     featured: true,
   },
   {
-    text: 'About',
-    url: 'https://jaydanurwin.com/about',
+    text: 'live video',
+    url: 'https://lomia.page.link/2irR',
   },
   {
-    text: 'Uses',
-    url: 'https://jaydanurwin.com/uses',
+    text: 'video and pic',
+    url: 'https://lomia.page.link/2irR',
   },
   {
     text: 'See my latest blog post!',
-    url: 'https://jaydanurwin.com/about',
+    url: 'https://lomia.page.link/2irR',
   }
 ]
